@@ -13,7 +13,7 @@ This repository contains code for a machine learning project that predicts cross
 To run the code, follow these steps: 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/cross-sell-prediction.git
+git clone https://github.com/code4lang/cross-sell-prediction.git
 
 2. Install the required libraries:
 
