@@ -1,0 +1,6 @@
+seaborn
+python = ">=3.8.0,<3.9"
+numpy = "^1.22.2"
+replit = "^3.2.4"
+Flask = "^2.2.0"
+pandas = "^1.4.4"
